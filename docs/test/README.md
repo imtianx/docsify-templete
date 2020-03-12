@@ -52,6 +52,7 @@ inline fun <T> BooleanExt<T>.otherwise(block: () -> T): T = when (this) {
 
 
 - jsDelivr CDN : https://www.jsdelivr.com/package/npm/docsify
+- awesome-docsify: https://github.com/docsifyjs/awesome-docsify
 - 一个不错的主题： [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/#/)
 
 ---
