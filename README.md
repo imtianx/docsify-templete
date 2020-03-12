@@ -1,3 +1,3 @@
-# Guide
+# docsify-templete
 
-> 整理一些个人笔记。
+> My doc templete of [docsify](https://docsify.js.org/)。
